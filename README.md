@@ -1,4 +1,4 @@
-# [TranslateSub] - AI-Powered Video & Audio Translation Tool
+# [TranslateSub] - AI Video Subtitle Generator & Real-time Stream Translator
 
 <p align="center">
   <a href="https://translatesub.com/"><b>Official Website</b></a> |
